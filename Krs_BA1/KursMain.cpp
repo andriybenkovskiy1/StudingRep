@@ -16,6 +16,8 @@ bool setset  = false, setrnd =false;
 double H[81][81], hx, hy;
 int pt[81][81][2];
 
+//---------------------------------------
+
 //---------------------------------------------------------------------------
 __fastcall TForm1::TForm1(TComponent* Owner)
         : TForm(Owner)
